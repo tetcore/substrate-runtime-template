@@ -1,4 +1,4 @@
-# Substrate Runtime Template
+# Tetcore Runtime Template
 
 A FRAME runtime ready for hacking. Learn to build with Substrate at substrate.io
 
